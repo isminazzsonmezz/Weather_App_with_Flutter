@@ -1,5 +1,9 @@
 TR:
 
+  ⚠️ API anahtarı güvenliği:
+  Bu proje, API anahtarı için ortam değişkenlerini kullanır.
+  Projeyi çalıştırmak için lütfen kendi anahtarınızı oluşturun.
+
 🚀 Proje Özeti
   - Flutter widget’larını pratik örneklerle öğrenmek
   - Liste ve grid yapılarını performanslı şekilde kullanmak
@@ -54,6 +58,10 @@ JSON
 - Yeni widget ve örnekler eklenerek genişletilebilir.
 
 EN:
+  
+  ⚠️ API key security:
+  This project uses environment variables for the API key.
+  Please create your own key to run the project.
 
 🚀 Project Overview
   - Learning Flutter widgets through practical examples
