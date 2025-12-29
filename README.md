@@ -1,7 +1,7 @@
 TR:
 
   ⚠️ API anahtarı güvenliği:
-  Bu proje, API anahtarı için ortam değişkenlerini kullanır.
+  Bu proje, API anahtarı kullanır.
   Projeyi çalıştırmak için lütfen kendi anahtarınızı oluşturun.
 
 🚀 Proje Özeti
@@ -60,7 +60,7 @@ JSON
 EN:
   
   ⚠️ API key security:
-  This project uses environment variables for the API key.
+  This project uses API key.
   Please create your own key to run the project.
 
 🚀 Project Overview
